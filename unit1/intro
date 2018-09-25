@@ -1,0 +1,22 @@
+Unit 1 lessons
+You can find unit1 lessons at the end of this post. Before you get started:
+ 
+Ensure that you have done these:
+
+Your computers are setup correctly (py.test, sources root etc.) and the end to end flow is working properly as described in @23.
+Read on how to do these lessons effectively - it is not just getting the lessons to pass, it is about building your personal skill: @29
+ 
+Unit 1 Goals:
+
+At the end of this unit, you should have met the following goals.
+ 
+Learn builtin data types like numbers and strings
+Learn how to use builtin data structures in python - lists, dicts(hashtables), tuples and sets. When do you use which data structure? 
+Learn to use some of the builtin functions in python using online and console help
+Learn to use the Pycharm console (Alt + P)
+Learn to use the Python visualizer
+Learn to ask and answer questions in the forums.
+ 
+Python comes with a very powerful set of features and libraries which makes it easy to get a lot of work done very fast. This is at the heart of rapid application development - using available features, frameworks and libraries to get your work done without reinventing things like lists, sets and hashtables.
+
+Your job is to learn how to use all of them to solve problems efficiently (both in terms of runtime performance and in terms of how much time it takes to write the code :) ).
